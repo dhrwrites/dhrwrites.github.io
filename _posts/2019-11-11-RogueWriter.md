@@ -2,7 +2,7 @@
 
 It's a writer's dream. Or maybe it's just an obsession.
 
-![three]({{ site.baseurl }}/images/posts/config.png)
+![three]({{ site.baseurl }}/images/posts/rw_three.png)
 
 **RogueWriter** is a portable device that makes it easy to write, without all the distractions 
 that a laptop can offer. My version of it boots up directly to a terminal
