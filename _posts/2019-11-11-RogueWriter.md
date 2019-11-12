@@ -81,6 +81,9 @@ connector. This lets me plug in a mouse for software fixes if that's needed.
   the perfect case.
 - Double stick tape and velcro. This holds things together well enough to keep
   everything in place, but it can be repositioned if you need to change things. I ended up using 
+  double stick tape for the display, the `pi`, the switch, and cables. Sometimes
+  you need to use two layers of tape to position the component properly (like the
+  screen). I used
   velcro to keep the battery in place, because it's the one thing you need to
   remove from time to time. Being able to remove it means you don't need to 
   monkey around with holes in the cigar box (I think these always look crappy),
