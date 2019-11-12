@@ -23,7 +23,7 @@ There are a lot of ways to overplan this, and you can waste a lot of time 3D
 printing the perfect case, running wiring diagrams, and stuff like that. 
 I didn't want to get lost in that. 
 I wanted a design that was easy to build (no soldering or finicky construction). 
-The perfect thing would be to buy a bunch of stuff to plugs together, and
+The perfect thing would be to buy a bunch of stuff that plugs together, and
 ends up being cool. I wanted something I wouldn't be embarrassed to be seen 
 using in your local coffee shop.
 
