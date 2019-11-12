@@ -64,21 +64,27 @@ I haven't found a cheap bluetooth keyboard that works well, but YMMV.
 6. [USB right angle
 adapter](https://www.amazon.com/gp/product/B01C6031MA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
 You may not need them, but for my arrangement of parts in the cigar box,
-I needed these. Take a look at how I use two of these: the visible one on the
+I did. Take a look at how I use two of these: the visible one on the
 right connects to the on/off switch. The second one, just barely visible
 extending to the left of the ribbon cable, provides access to the `pi`'s USB
 connector. This lets me plug in a mouse for software fixes if that's needed.
-7. USB micro cable.
+7. USB micro cable. Basically, parts **5, 6** and **7** plug power into the
+`pi` board, adding an on/off switch.
 
 ## Other Parts
 
 - A really cool cigar case. This is important, as it sets the parameters of the
   final device. Don't obsess too long about it, though, as you can always take
   these parts and put them into a new, cooler case. In fact, you might say that
-  that's kind of the point of this whole thing.
+  that's kind of the point of this whole thing - getting the guts together and
+  getting your workflow going, and then futzing around by keeping an eye out for
+  the perfect case.
 - Double stick tape and velcro. This holds things together well enough to keep
   everything in place, but it can be repositioned if you need to change things. I ended up using 
-  velcro to keep the battery in place, because it's the one thing you need the most access to.
+  velcro to keep the battery in place, because it's the one thing you need to
+  remove from time to time. Being able to remove it means you don't need to 
+  monkey around with holes in the cigar box (I think these always look crappy),
+  and you can just pull it out to recharge it. Simple.
 - Small bit of lighting chain, and two screws to keep the lid in place. You
   may not need this, if your cigar box has some nifty hinges that stay open.
 - Tools. All I needed was an x-acto knife to cut the double sided tape, and the cardboard cover.
