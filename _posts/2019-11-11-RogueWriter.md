@@ -14,7 +14,7 @@ window, allowing me to work through the keyboard only.
 There are a lot of different attempts at such a device, including the
 [freewrite](https://getfreewrite.com/products/freewrite-smart-typewriter), the
 [alphsmart](https://en.wikipedia.org/wiki/AlphaSmart), and other raspberry
-pi-baseddevices like 
+pi-based devices like 
 [this](https://www.reddit.com/r/raspberry_pi/comments/7e4n2n/my_portable_distractionfree_writing_machine/),
 and
 [this](https://www.hackster.io/news/scripto-is-a-distraction-free-raspberry-pi-powered-writing-device-65916a3e5bb7)
@@ -30,16 +30,14 @@ The perfect thing would be to buy a bunch of stuff that plugs together, and
 ends up being cool. I wanted something I wouldn't be embarrassed to be seen 
 using out in the wild. 
 
-For mine, I wanted something that:
+The design of this thing is important. You'll see that this drives some of 
+the purchasing decisions. For mine, I wanted something that:
 
 - Was reliable, simple, and flexible
 - Was portable, with good battery life
 - Was reasonably cheap 
 - Was cool, like a clacky, satisfying old typewriter 
 - Supported a useful workflow
-
-The design of this thing is important. You'll see that this drives some of 
-the purchasing decisions.
 
 So our project breaks into two parts: **1** Connecting some components together 
 and **2)** fitting them into a case.
