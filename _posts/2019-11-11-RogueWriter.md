@@ -1,9 +1,7 @@
 ---
 layout: post
-title: RogueWriter
+title: RogueWriter: A DIY distraction-free writing device
 ---
-
-# RogueWriter: A DIY distraction-free writing device
 
 It's a writer's dream. Or maybe it's just an obsession.
 
