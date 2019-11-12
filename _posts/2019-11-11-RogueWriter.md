@@ -91,11 +91,12 @@ Now that you have a **RogueWriter** up and running, you have a choice. What work
 do you want to support? The native OS for the `pi` is `Raspbian`, and it is
 very flexible. You can easily:
     
-- Use the computer as a normal Linux-based desktop, and use tools that work in
-  that environment. This is great for most people, but it will require you to
-  pair a mouse with the computer, as well. If that's what you want to do, that
-  should work fine.
-- Set up things to work in a terminal-only mode. If this option makes sense to
-  you, you're closer to making a more distraction-free **RogueWriter**. 
+1. Use the computer as a normal Linux-based desktop, and use tools that work in
+   that environment. This is great for most people, but it will require you to
+   pair a mouse with the computer, as well. If that's what you want to do, that
+   should work fine.
+2. Set up things to work in a terminal-only mode. If this option makes sense to
+   you, you're closer to making a more distraction-free **RogueWriter**. 
 
-
+For the next post, I'll show how to use this in the latter mode, using the
+`OpenManuscript` data specification and tools.
