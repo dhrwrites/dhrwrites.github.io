@@ -25,7 +25,7 @@ I didn't want to get lost in that.
 I wanted a design that was easy to build (no soldering or finicky construction). 
 The perfect thing would be to buy a bunch of stuff that plugs together, and
 ends up being cool. I wanted something I wouldn't be embarrassed to be seen 
-using in your local coffee shop.
+using out in the wild. 
 
 The design of this thing is important. You'll see that this drives some of 
 the purchasing decisions.
