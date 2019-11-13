@@ -70,7 +70,12 @@ together (no cabling or soldering needed!), you have a working computer. It's ba
 
 1. **Computer. ($14)** This design uses the **Raspberry Pi W**, a small, low-power computer that has both wifi and bluetooth on board. We'll use a **Pi W** with pre-soldered [header pins](https://www.adafruit.com/product/3708), so you can plug in the specified display.
 	- To drive the device, you can buy a memory card with the [OS pre-installed](https://www.adafruit.com/product/3259), or you can [install it yourself](https://www.raspberrypi.org/downloads/noobs/). 
-2. **Display. ($49)** The display is pretty important. I've seen a lot of designs for things like this using small displays, and they typically have cables and plus sticking out of them. I wanted something without a lot of messy cable connections, so I chose a [display that lays flat and has a ribbon connection](https://www.amazon.com/gp/product/B0716RVNTS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
+2. **Display. ($49)** The display is pretty important. I've seen a lot of
+designs using small displays, and they typically have
+cables and plugs sticking out of them. To me that would be distracting. I chose
+a [display that lays flat and has a ribbon
+connection](https://www.amazon.com/gp/product/B0716RVNTS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1),
+which is visually much cleaner.
 3. **Keyboard. ($55)** Buyer's choice here. There are lots of options for
 bluetooth keyboards, and you can make your own choices on portability, feel,
 size, etc. The most important thing is whether or not the keyboard robustly
