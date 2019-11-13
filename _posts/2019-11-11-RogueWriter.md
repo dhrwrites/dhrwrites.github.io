@@ -64,7 +64,7 @@ So our project breaks into two parts:
 ## The Guts
 
 Let's lay this thing out and take a look at the guts. It's basically **display (plugged into a) computer (plugged into a) battery**. Once plug these things
-together (no cabling or soldering needed!), you have a working computer. It's basically these components, for a total of about **$150**:
+together (no cabling or soldering needed!), you have a working computer for about **$150**:
 
 ![guts]({{ site.baseurl }}/images/posts/rw_diagram.png)
 
