@@ -25,7 +25,11 @@ Like I said, this can be an obsession.
 ![three]({{ site.baseurl }}/images/posts/rw_three.png)
 
 **RogueWriter** is a portable device with a keyboard and display that makes it easy to write, without all the distractions 
-a full laptop can offer. The **RougeWriter** is:
+a full laptop can offer. It is also, importantly, *easy to assemble*, requiring
+no soldering, case cutting, 3D printing or other finicky stuff. The parts can be
+plugged together, taped in place, and you're done.
+
+The **RougeWriter** is:
 
 - portable
 - battery-powered
