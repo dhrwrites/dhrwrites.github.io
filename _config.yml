@@ -9,8 +9,7 @@ name: "DHR Writes"
 description: "DHR Blog Site"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
-https://raw.githubusercontent.com/dhrwrites/dhrwrites.github.io//master/images/robot_head_600x600.png
+avatar: https://raw.githubusercontent.com/dhrwrites/dhrwrites.github.io//master/images/robot_head_600x600.png
 
 
 #
