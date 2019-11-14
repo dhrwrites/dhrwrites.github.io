@@ -5,7 +5,11 @@ title: RogueWriter, A DIY distraction-free writing device
 
 It's a writer's dream. Or maybe it's just an obsession.
 
-There's a romantic view of the days when writers would bang out fiction on sturdy old machines. I admit I love a good typewriter, but I love the advantages of a computer, too. The problem is that a computer is no longer a device for writing. More and more we associate computers with distraction, social interaction, and media of all types. So the computer is no longer the writer's friend.
+There's a romantic view of the days when writers would bang out fiction on
+sturdy old typewriter. I love a good typewriter, but I love the advantages of a computer, too. 
+The problem is that more and more we associate computers with distraction, social interaction, 
+and media of all types. So for me, the computer is less a machine for writing
+fiction than it is a machine for distraction. 
 
 Wouldn't it be great if we had a machine with the single purpose of a typewriter, and some of the benefits that a computing device has?
 
