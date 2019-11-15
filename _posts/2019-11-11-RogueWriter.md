@@ -121,7 +121,8 @@ connector. This lets me plug in a mouse for software fixes if that's needed.
 ## Connect the Pieces, and Tape Them in Place 
 
 It's important that you let go of making this some futzy, crazy, perfect thing.
-Some tape and bubble gum keeping it together is a good thing. As long as you have a cool cigar box, this will look cool.
+Some tape and bubble gum keeping it together is a good thing. As long as you
+have a cool cigar box, you're good.
 
 1. Assemble the guts of the device (computer, display, battery).
 2. Plug them together to make sure it all works. This includes installing the OS for the **Pi**. If you've bought the [pre-installed OS](https://www.adafruit.com/product/3259), just plug the card in, and turn it on. The computer will boot to a desktop.
