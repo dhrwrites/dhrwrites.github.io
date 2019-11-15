@@ -6,4 +6,4 @@ permalink: /about/
 
 ### Contact me
 
-[dhrwrites@gmail.com](mailto:dhrwrites@gmail.com)
+[send me an email](mailto:david@dhrogers.com)
