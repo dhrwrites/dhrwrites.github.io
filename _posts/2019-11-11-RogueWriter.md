@@ -54,7 +54,9 @@ among many.
 
 So let's go ... 
 
-## Buy components 
+## Buy The Parts
+
+![diagram]({{ site.baseurl }}/images/posts/rw_diagram_shaded.png)
 
 First you have to buy the parts. Let's lay this thing out and take a look at the guts. 
 It's basically **display (plugged into a) computer (plugged into a) battery**. Once plug these things
