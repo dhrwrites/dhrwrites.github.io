@@ -92,7 +92,7 @@ etc. A lot of different batteries will work, and I always have an eye out for
 a smaller battery pack on sale. You have to make a tradeoff between size, price,
 and battery life. There's a post on that.
     - [Here's the one that I'm using now](https://www.amazon.com/POWERADD-Pilot-2GS-High-Speed-Smartphone/dp/B00N2JBTEM/ref=sr_1_1_sspa?keywords=poweradd%2B10000).
-5. [**USB on/off switch**](https://www.amazon.com/gp/product/B07CTHKXDW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). This keeps the battery from draining, even after you've shut down the **Pi**.
+5. [**USB on/off switch**](https://www.amazon.com/gp/product/B07CTHKXDW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). This keeps the battery from draining, after you've shut down the **Pi**.
 6. [**USB right angle
 adapter**](https://www.amazon.com/gp/product/B01C6031MA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
 You may not need them, but for my arrangement of parts in the cigar box,
