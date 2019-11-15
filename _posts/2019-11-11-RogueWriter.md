@@ -16,8 +16,8 @@ Wouldn't it be great if we had a machine with the single purpose of a typewriter
 
 There are a lot of different at such a device, including the
 [freewrite](https://getfreewrite.com/products/freewrite-smart-typewriter), the
-[alphasmart](https://en.wikipedia.org/wiki/AlphaSmart), and raspberry
-pi-based devices like 
+[alphasmart](https://en.wikipedia.org/wiki/AlphaSmart), and [
+raspberry pi](https://en.wikipedia.org/wiki/Raspberry_Pi)-based devices like 
 [this](https://www.reddit.com/r/raspberry_pi/comments/7e4n2n/my_portable_distractionfree_writing_machine/),
 and
 [this](https://www.hackster.io/news/scripto-is-a-distraction-free-raspberry-pi-powered-writing-device-65916a3e5bb7)
