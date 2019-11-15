@@ -29,6 +29,8 @@ Like I said, this can be an obsession.
 
 ![three]({{ site.baseurl }}/images/posts/rw_three.png)
 
+So here's my addition to this bestiary of devices ...
+
 **RogueWriter** is a portable device with a keyboard and display that makes it easy to write, without all the distractions 
 a full laptop can offer. It is also, importantly, *easy to assemble*, requiring
 no soldering, case cutting, 3D printing or other finicky stuff. The parts can be
@@ -40,33 +42,23 @@ The **RougeWriter** is:
 - battery-powered
 - wireless- and bluetooth-enabled, and
 - inexpensive
+- a bit wonky, like a clacky old typewriter. 
+
+Importantly, you won't be embarrassed to been with it out in the wild.
+In fact, the visual design of this thing is important, and it drives some of 
+the purchasing decisions. 
 
 My version of this device boots to a text display (a bash shell, to be specific), ready for writing.
+The workflow I use is discussed in a later post, and is one possible workflow
+among many.
 
-A distraction-free workflow is extremely important as well, and this is
-addressed in a later post. This post is concerned only with assembling
-a **RogueWriter** in the simplest way possible.
+So our project breaks into three parts:
 
-I wanted a design that was easy to build (no soldering or finicky construction). 
-The perfect thing would be to buy a bunch of stuff that plugs together, and
-ends up being cool. I wanted something I wouldn't be embarrassed to be seen 
-using out in the wild. 
+1. buying some stuff
+2. connecting the pieces 
+3. fitting them into a case.
 
-The design of this thing is important, and it drives some of 
-the purchasing decisions. For mine, I wanted something that:
-
-- was reliable, simple, and flexible
-- was portable, with good battery life
-- was reasonably cheap 
-- was cool, like a clacky, satisfying old typewriter 
-- supported a useful workflow
-
-So our project breaks into two parts:
-
-1. connecting some components together, and 
-2. fitting them into a case.
-
-## The Guts
+## Buying some stuff 
 
 Let's lay this thing out and take a look at the guts. It's basically **display (plugged into a) computer (plugged into a) battery**. Once plug these things
 together (no cabling or soldering needed!), you have a working computer for about **$150**:
@@ -126,7 +118,7 @@ connector. This lets me plug in a mouse for software fixes if that's needed.
   may not need this, if your cigar box has some nifty hinges that stay open.
 - Tools. All I needed was an x-acto knife to cut the double sided tape, and the cardboard cover.
 
-## Assembly
+## Everything else 
 
 It's important that you let go of making this some futzy, crazy, perfect thing.
 Some tape and bubble gum keeping it together is a good thing. As long as you have a cool cigar box, this will look cool.
@@ -134,7 +126,6 @@ Some tape and bubble gum keeping it together is a good thing. As long as you hav
 1. Assemble the guts of the device (computer, display, battery).
 2. Plug them together to make sure it all works. This includes installing the OS for the **Pi**. If you've bought the [pre-installed OS](https://www.adafruit.com/product/3259), just plug the card in, and turn it on. The computer will boot to a desktop.
 3. Find a nice way to fit everything into your case, and lightly double stick tape the components in place. This will take some trial and error, but since you're not soldering or gluing, it's pretty easy to fit things in. Once you have things settled in, you can velcro the battery in place, and more permanently tape everything in place.
-
 
 ## OS/Software
 
