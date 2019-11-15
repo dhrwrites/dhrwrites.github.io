@@ -59,8 +59,9 @@ So let's go ...
 ![diagram]({{ site.baseurl }}/images/posts/rw_diagram_shaded.png)
 
 First you have to buy the parts. Let's lay this thing out and take a look at the guts. 
-It's basically **display (plugged into a) computer (plugged into a) battery**. Once plug these things
-together (no cabling or soldering needed!), you have a working computer for about **$150**:
+It's basically **display (plugged into a) computer (plugged into a) battery**,
+with a **bluetooth keyboard**. Once you plug these things
+together, you have a pretty powerful computer for about **$150**:
 
 ![guts]({{ site.baseurl }}/images/posts/rw_diagram.png)
 
