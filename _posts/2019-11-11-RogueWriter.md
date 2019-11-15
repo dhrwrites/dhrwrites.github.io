@@ -52,15 +52,12 @@ My version of this device boots to a text display (a bash shell, to be specific)
 The workflow I use is discussed in a later post, and is one possible workflow
 among many.
 
-So our project breaks into three parts:
+So let's go ... 
 
-1. buying some stuff
-2. connecting the pieces 
-3. fitting them into a case.
+## Buy components 
 
-## Buying some stuff 
-
-Let's lay this thing out and take a look at the guts. It's basically **display (plugged into a) computer (plugged into a) battery**. Once plug these things
+First you have to buy the parts. Let's lay this thing out and take a look at the guts. 
+It's basically **display (plugged into a) computer (plugged into a) battery**. Once plug these things
 together (no cabling or soldering needed!), you have a working computer for about **$150**:
 
 ![guts]({{ site.baseurl }}/images/posts/rw_diagram.png)
@@ -69,7 +66,7 @@ together (no cabling or soldering needed!), you have a working computer for abou
 the **Raspberry Pi W**, a small, low-power computer that has both wifi and
 bluetooth on board. We'll use a **Pi W** with pre-soldered header pins, so you can plug in the specified display.
 	- Buy a memory card with the [OS pre-installed](https://www.adafruit.com/product/3259), or you can [install it yourself](https://www.raspberrypi.org/downloads/noobs/). 
-2. [**Display. ($49)**](https://www.amazon.com/gp/product/B0716RVNTS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+2. [**Display. ($49)**](https://www.amazon.com/gp/product/B0716RVNTS)
 The display is important. I've seen a lot of designs using small displays, and they typically have
 cables and plugs sticking out of them. To me that would be distracting. I chose
 a display that lays flat and has a ribbon connection, which is visually much cleaner.
@@ -78,17 +75,19 @@ bluetooth keyboards, and you can make your own choices on portability, feel,
 size, etc. The most important thing is whether or not the keyboard robustly
 connects to the **Pi** through power cycles. Some keyboards just don't do it.
 I haven't found a cheap bluetooth keyboard that works well, but YMMV.
-    - Here's my current [favorite keyboard](https://www.amazon.com/gp/product/B019PIXO78/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). It's portable (it folds), and when unfolded it has a nice size, and the layout is great for touch typing. It holds a good charge, and turns on/off as the keyboard is opened/closed. Nice product.
+    - Here's my current [favorite keyboard](https://www.amazon.com/gp/product/B019PIXO78).
+      It's portable, and when unfolded it's a nice size and the layout is great for touch typing. 
+      It holds a good charge, and turns on/off as the keyboard is opened/closed. Nice product.
 4. **Battery. ($18)** Your choice, based on price, battery life, form factor,
 etc. A lot of different batteries will work, and I always have an eye out for
 a smaller battery pack on sale. You have to make a tradeoff between size, price,
 and battery life. There's a post on that.
-    - [Here's the one that I'm using now](https://www.amazon.com/POWERADD-Pilot-2GS-High-Speed-Smartphone/dp/B00N2JBTEM/ref=sr_1_1_sspa?keywords=poweradd%2B10000).
+    - [Here's the one that I'm using now](https://www.amazon.com/POWERADD-Pilot-2GS-High-Speed-Smartphone/dp/B00N2JBTEM).
 5. [**USB on/off
-switch**](https://www.amazon.com/gp/product/B07CTHKXDW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
+switch**](https://www.amazon.com/gp/product/B07CTHKXDW).
     Keeps the battery from draining after shutting down the **Pi**.
 6. [**USB right angle
-adapter**](https://www.amazon.com/gp/product/B01C6031MA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
+adapter**](https://www.amazon.com/gp/product/B01C6031MA).
 You may not need them, but for my arrangement of parts in the cigar box,
 I did. Take a look at how I use two of these: the visible one on the
 right connects to the on/off switch. The second one, just barely visible
@@ -118,7 +117,7 @@ connector. This lets me plug in a mouse for software fixes if that's needed.
   may not need this, if your cigar box has some nifty hinges that stay open.
 - Tools. All I needed was an x-acto knife to cut the double sided tape, and the cardboard cover.
 
-## Everything else 
+## Connect the Pieces, and Tape Them in Place 
 
 It's important that you let go of making this some futzy, crazy, perfect thing.
 Some tape and bubble gum keeping it together is a good thing. As long as you have a cool cigar box, this will look cool.
