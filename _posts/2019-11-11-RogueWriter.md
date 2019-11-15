@@ -73,21 +73,25 @@ together (no cabling or soldering needed!), you have a working computer for abou
 
 ![guts]({{ site.baseurl }}/images/posts/rw_diagram.png)
 
-1. **Computer. ($14)** This design uses the **Raspberry Pi W**, a small, low-power computer that has both wifi and bluetooth on board. We'll use a **Pi W** with pre-soldered [header pins](https://www.adafruit.com/product/3708), so you can plug in the specified display.
-	- To drive the device, you can buy a memory card with the [OS pre-installed](https://www.adafruit.com/product/3259), or you can [install it yourself](https://www.raspberrypi.org/downloads/noobs/). 
-2. **Display. ($49)** The display is pretty important. I've seen a lot of
-designs using small displays, and they typically have
+1. [**Computer. ($14)**](https://www.adafruit.com/product/3708) This design uses
+the **Raspberry Pi W**, a small, low-power computer that has both wifi and
+bluetooth on board. We'll use a **Pi W** with pre-soldered header pins, so you can plug in the specified display.
+	- Buy a memory card with the [OS pre-installed](https://www.adafruit.com/product/3259), or you can [install it yourself](https://www.raspberrypi.org/downloads/noobs/). 
+2. [**Display. ($49)**](https://www.amazon.com/gp/product/B0716RVNTS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+The display is important. I've seen a lot of designs using small displays, and they typically have
 cables and plugs sticking out of them. To me that would be distracting. I chose
-a [display that lays flat and has a ribbon
-connection](https://www.amazon.com/gp/product/B0716RVNTS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1),
-which is visually much cleaner.
+a display that lays flat and has a ribbon connection, which is visually much cleaner.
 3. **Keyboard. ($55)** Buyer's choice here. There are lots of options for
 bluetooth keyboards, and you can make your own choices on portability, feel,
 size, etc. The most important thing is whether or not the keyboard robustly
 connects to the **Pi** through power cycles. Some keyboards just don't do it.
 I haven't found a cheap bluetooth keyboard that works well, but YMMV.
     - Here's my current [favorite keyboard](https://www.amazon.com/gp/product/B019PIXO78/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). It's portable (it folds), and when unfolded it has a nice size, and the layout is great for touch typing. It holds a good charge, and turns on/off as the keyboard is opened/closed. Nice product.
-4. **Battery. ($18)** Your choice, based on price, battery life, form factor, etc. A lot of different batteries will work, and I always have an eye out for a smaller battery pack on sale. [Here's the one that I'm using now](https://www.amazon.com/POWERADD-Pilot-2GS-High-Speed-Smartphone/dp/B00N2JBTEM/ref=sr_1_1_sspa?keywords=poweradd%2B10000).
+4. **Battery. ($18)** Your choice, based on price, battery life, form factor,
+etc. A lot of different batteries will work, and I always have an eye out for
+a smaller battery pack on sale. You have to make a tradeoff between size, price,
+and battery life. There's a post on that.
+    - [Here's the one that I'm using now](https://www.amazon.com/POWERADD-Pilot-2GS-High-Speed-Smartphone/dp/B00N2JBTEM/ref=sr_1_1_sspa?keywords=poweradd%2B10000).
 5. [**USB on/off switch**](https://www.amazon.com/gp/product/B07CTHKXDW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). This keeps the battery from draining, even after you've shut down the **Pi**.
 6. [**USB right angle
 adapter**](https://www.amazon.com/gp/product/B01C6031MA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
