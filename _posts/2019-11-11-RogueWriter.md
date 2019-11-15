@@ -99,7 +99,8 @@ connector. This lets me plug in a mouse for software fixes if that's needed.
 
 ### Other Parts
 
-- A really cool cigar case. This is important, as it sets the parameters of the
+- A really cool cigar case. Mine measures 7 1/4"w,5 5/8"d,1 5/8"h. The wood is 
+  about 3/16" thick. The case is important, as it sets the parameters of the
   final device. Don't obsess too long about it, though, as you can always take
   these parts and put them into a new, cooler case. In fact, you might say that
   that's kind of the point of this whole thing - getting the guts together and
