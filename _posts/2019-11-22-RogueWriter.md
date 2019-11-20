@@ -86,7 +86,7 @@ I haven't found a cheap bluetooth keyboard that works well, but YMMV.
 etc. A lot of different batteries will work, and I always have an eye out for
 a smaller battery pack on sale. You have to make a tradeoff between size, price,
 and battery life. There's a post on that.
-    - [Here's the one that I'm using now](https://www.amazon.com/gp/product/B07QXZ6DJL). 
+    - [Here's the one that I'm using now](https://www.amazon.com/dp/B07RX73MF2).
       Preliminary [testing](https://www.amazon.com/gp/product/B013FANC9W) 
       shows this should last for **9 hours**. More detailed testing on the way.
 5. [**USB on/off
