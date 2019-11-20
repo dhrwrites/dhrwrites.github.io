@@ -134,4 +134,4 @@ have a cool cigar box, you're good.
 ## OS/Software
 
 Now that you have a **RogueWriter** up and running, you have a choice. What workflow
-do you want to support? We'll cover the options in the next post.
+do you want to support? We'll cover some options in the next post.
