@@ -2,8 +2,8 @@
 layout: post
 title: RogueWriter, A DIY distraction-free writing device
 categories: [technology, writing]
+image: /images/posts/rw_three_v02.png"
 ---
-<meta name="twitter:image" content="{{ site.baseurl }}/images/posts/rw_three_v02.png">k
 
 It's a writer's dream. Or maybe it's just an obsession.
 
