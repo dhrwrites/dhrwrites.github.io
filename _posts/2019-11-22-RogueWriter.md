@@ -65,8 +65,10 @@ together, you have a pretty powerful computer for about **$150**:
 
 1. [**Computer. ($14)**](https://www.adafruit.com/product/3708) This design uses
 the **Raspberry Pi W**, a small, low-power computer that has both wifi and
-bluetooth on board. We'll use a **Pi W** with pre-soldered header pins, so you can plug in the specified display.
-	- Buy a memory card with the [OS pre-installed](https://www.adafruit.com/product/3259), or you can [install it yourself](https://www.raspberrypi.org/downloads/noobs/). 
+bluetooth on board. We'll use a **Pi W** with pre-soldered header pins, so you
+can plug in the specified display. To get the **Pi** up and running, you'll need
+a memory card with the [OS pre-installed](https://www.adafruit.com/product/3259), 
+or you can [install it yourself](https://www.raspberrypi.org/downloads/noobs/). 
 2. [**Display. ($49)**](https://www.amazon.com/gp/product/B0716RVNTS)
 The display is important. I've seen a lot of designs using small displays, and they typically have
 cables and plugs sticking out of them. To me that would be distracting. I chose
