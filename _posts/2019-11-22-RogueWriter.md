@@ -27,7 +27,7 @@ Like I said, this can be an obsession.
 
 ## RogueWriter
 
-![three]({{ site.baseurl }}/images/posts/rw_three.png)
+![three]({{ site.baseurl }}/images/posts/rw_three_v02.png)
 
 So here's my addition to this bestiary of devices ...
 
@@ -61,7 +61,7 @@ It's basically **display (plugged into a) computer (plugged into a) battery**,
 with a **bluetooth keyboard**. Once you plug these things
 together, you have a pretty powerful computer for about **$150**:
 
-![guts]({{ site.baseurl }}/images/posts/rw_diagram.png)
+![guts]({{ site.baseurl }}/images/posts/rw_diagram_v02.png)
 
 1. [**Computer. ($14)**](https://www.adafruit.com/product/3708) This design uses
 the **Raspberry Pi W**, a small, low-power computer that has both wifi and
@@ -83,19 +83,19 @@ I haven't found a cheap bluetooth keyboard that works well, but YMMV.
 etc. A lot of different batteries will work, and I always have an eye out for
 a smaller battery pack on sale. You have to make a tradeoff between size, price,
 and battery life. There's a post on that.
-    - [Here's the one that I'm using now](https://www.amazon.com/POWERADD-Pilot-2GS-High-Speed-Smartphone/dp/B00N2JBTEM).
+    - [Here's the one that I'm using now](https://www.amazon.com/gp/product/B07QXZ6DJL). Preliminary testing
+      with [this](https://www.amazon.com/gp/product/B013FANC9W) 
+      shows this should last for **9 hours**. More detailed testing on the way.
 5. [**USB on/off
 switch**](https://www.amazon.com/gp/product/B07CTHKXDW).
     Keeps the battery from draining after shutting down the **Pi**.
 6. [**USB right angle
 adapter**](https://www.amazon.com/gp/product/B01C6031MA).
-You may not need them, but for my arrangement of parts in the cigar box,
-I did. Take a look at how I use two of these: the visible one on the
-right connects to the on/off switch. The second one, just barely visible
-extending to the left of the ribbon cable, provides access to the **Pi**'s USB
-connector. This lets me plug in a mouse for software fixes if that's needed.
-7. **USB micro cable**. Basically, parts **5, 6** and **7** plug power into the
-**Pi** board, adding an on/off switch.
+You may not need this, but for my arrangement of parts,
+I used one for access to the **Pi**'s USB
+connector. This lets me plug in a mouse for software fixes if that's needed. In this design, the adapter is hidden beneath the fold in the display's ribbon cable, but just barely pokes out on the left side.
+7. [**USB A to B adapter**](https://www.amazon.com/gp/product/B001K9BEJ6).
+Connects the battery to the on/off switch cable.
 
 ### Other Parts
 
