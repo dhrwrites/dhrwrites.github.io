@@ -120,7 +120,8 @@ Connects the battery to the on/off switch cable.
   and you can just pull it out to recharge it. Simple.
 - Small bit of lighting chain, and two screws to keep the lid in place. You
   may not need this, if your cigar box has some nifty hinges that stay open.
-- Tools. All I needed was an x-acto knife to cut the double sided tape, and the cardboard cover.
+- Tools. All I needed was an x-acto knife to cut the double sided tape and
+  velcro.
 
 ## Connect the Pieces, and Tape Them in Place 
 
