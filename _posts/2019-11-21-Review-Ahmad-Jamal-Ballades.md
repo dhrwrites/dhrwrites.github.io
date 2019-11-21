@@ -24,7 +24,7 @@ recorded a solo album. It surprised me, and it's what immediately drew me to
 this new recording.
 
 An Ahmad Jamal recording is ... fun. His playing just makes me
-happy. I'm not exactly sure why, but something about his  
+happy. I'm not exactly sure why, but something in his  
 expressiveness, touch and inventiveness is just joyful. Jamal's musical 'outness' doesn't come from
 speedy, incomprehensible runs or twisty time changes - it's more from the
 overall shape and contrast of his interpretation. The playing can be moody, but it's 
