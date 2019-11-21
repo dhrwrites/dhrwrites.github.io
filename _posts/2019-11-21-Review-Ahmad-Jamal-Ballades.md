@@ -24,7 +24,7 @@ above all - to my ears - happy.
 Jamal isn't as familiar to the non-jazz-nerd public as some other pianists 
 (Herbie Hancock, Bill Evans, etc.) but he is known for his influence on 
 Miles Davis, who loved his "concept of space, his lightness of touch, his understatement".
-<superscript>[1]</superscript> I think
+<tinyt>[1]</tiny> I think
 it's a bit lazy to quote Miles about Jamal, because Jamal is such a great artist
 in his own right, but it helps people anchor his influence, especially if they
 aren't jazz nerds.
