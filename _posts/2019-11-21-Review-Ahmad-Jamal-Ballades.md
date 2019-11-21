@@ -38,10 +38,12 @@ it's a bit lazy to quote Miles about Jamal, because Jamal is such a great artist
 in his own right, but it helps people anchor his influence, especially if they
 aren't jazz nerds.
 
+*Ballades* is a terrific recording, with the songs ranging from originals to
+reinterpretations of jazz standards. It's a beautiful recording that anyone can enjoy. 
+Put it on as background music, or study it note-for-note. You'll enjoy it either way.
+
 ## Highlights
 
-*Ballades* is a terrific recording, with the songs ranging from originals to
-reinterpretations of jazz standards. 
 
 - [What's New](https://open.spotify.com/track/65nchdr9ThGXlUP9xSqXZI) 
 is a real standout for me. 
@@ -53,9 +55,6 @@ abstract and percussive passages, melodic wanderings - everything).
 - [Poinciana](https://open.spotify.com/track/7yVkminlVC608IGsvXMYaA) (his
   biggest hit) gets the same treatment, and is also worth a listen.
 
-*Ballades* is a beautiful recording that anyone can enjoy. It's easy to listen
-to, but is subtly challenging, as well. Put it on as background music, or
-study it note-for-note. You'll enjoy it either way.
 
 ## Other Recordings
 
