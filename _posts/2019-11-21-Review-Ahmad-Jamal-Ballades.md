@@ -56,7 +56,7 @@ note-for-note. You'll enjoy it either way.
   [biggest hit](https://web.archive.org/web/20081123052922/http://www.jazz.com/jazz-blog/2008/1/16/ahmad-jamal-s-poinciana-turns-50-today)) gets the same treatment, and is also worth a listen.
 
 
-## Other Recordings
+### Other Recordings
 
 My other favorite Ahmad Jamal recordings are:
 
