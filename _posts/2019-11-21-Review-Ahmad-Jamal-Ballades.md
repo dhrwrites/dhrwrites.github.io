@@ -38,13 +38,7 @@ it's a bit lazy to quote Miles about Jamal, because Jamal is such a great artist
 in his own right, but here I am doing it too, because it helps people appreciate his 
 influence, especially if they aren't jazz nerds.
 
-[Ballades](https://www.amazon.com/Ballades-Ahmad-Jamal/dp/B07T3NQ9NY) 
-is a terrific recording, with the songs ranging from originals to
-reinterpretations of jazz standards. Play it as background music, or study it 
-note-for-note. You'll enjoy it either way.
-
-### Highlights
-
+On this recording, a few tracks are real standouts to me:
 
 - [What's New](https://open.spotify.com/track/65nchdr9ThGXlUP9xSqXZI) is a real 
   standout for me. It's got all the expansion/contraction elements that I love 
@@ -54,6 +48,11 @@ note-for-note. You'll enjoy it either way.
 
 - [Poinciana](https://open.spotify.com/track/7yVkminlVC608IGsvXMYaA) (his
   [biggest hit](https://web.archive.org/web/20081123052922/http://www.jazz.com/jazz-blog/2008/1/16/ahmad-jamal-s-poinciana-turns-50-today)) gets the same treatment, and is also worth a listen.
+
+[Ballades](https://www.amazon.com/Ballades-Ahmad-Jamal/dp/B07T3NQ9NY) 
+is a terrific recording, with the songs ranging from originals to
+reinterpretations of jazz standards. Play it as background music, or study it 
+note-for-note. You'll enjoy it either way.
 
 
 ### Other Recordings
