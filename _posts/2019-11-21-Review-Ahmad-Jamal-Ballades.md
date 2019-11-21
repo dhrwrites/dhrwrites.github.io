@@ -14,10 +14,10 @@ image: https://en.wikipedia.org/wiki/File:Jamal_ballades.jpg
 }
 </style>
 
-Ahmad Jamal ... solo.
-
 
 ![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg){: .image-right}
+
+Ahmad Jamal ... solo.
 
 It's hard to believe, but in his long career, Ahmad Jamal has never
 recorded a solo album. It surprised me, and it's what immediately drew me to
