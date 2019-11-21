@@ -30,11 +30,14 @@ in his own right, but it helps people anchor his influence, especially if they
 aren't jazz nerds.
 
 *Ballades* is a terrific recording, with the songs ranging from originals to
-reinterpretations of jazz standards. [What's New]() is a real standout for me. 
+reinterpretations of jazz standards. [What's New](https://open.spotify.com/track/65nchdr9ThGXlUP9xSqXZI) 
+is a real standout for me. 
 It's got all the expansion/contraction
 elements that I love about his playing - in time, orchestration (single notes to
 those massive, keyboard-covering chords), and invention (snippets of melody,
-abstract and percussive passages, melodic wanderings - everything).
+abstract and percussive passages, melodic wanderings - everything). His hit
+[Poinciana](https://open.spotify.com/track/7yVkminlVC608IGsvXMYaA) gets the same
+treatment, and is also worth a listen.
 
 *Ballades* is a beautiful recording that anyone can enjoy. It's easy to listen
 to, but is subtly challenging, as well. Put it on as background music, or
