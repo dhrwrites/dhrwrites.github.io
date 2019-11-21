@@ -26,7 +26,7 @@ newest release.
 
 An Ahmad Jamal recording is ... fun. His playing just makes me happy. I'm not 
 exactly sure why, but something in his  expressiveness, touch and inventiveness 
-is just joyful. Jamal's musical 'outness' doesn't come from speedy runs or twisty 
+is simply joyful. Jamal's musical 'outness' doesn't come from speedy runs or twisty 
 time changes - it's more from the overall shape and contrast of his interpretation. 
 The playing can be moody, but it's above all - to my ears - happy.
 
