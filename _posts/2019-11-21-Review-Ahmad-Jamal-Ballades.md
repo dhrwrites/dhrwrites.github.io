@@ -45,12 +45,11 @@ Put it on as background music, or study it note-for-note. You'll enjoy it either
 ## Highlights
 
 
-- [What's New](https://open.spotify.com/track/65nchdr9ThGXlUP9xSqXZI) 
-is a real standout for me. 
-It's got all the expansion/contraction
-elements that I love about his playing - in time, orchestration (single notes to
-those massive, keyboard-covering chords), and invention (snippets of melody,
-abstract and percussive passages, melodic wanderings - everything).
+- [What's New](https://open.spotify.com/track/65nchdr9ThGXlUP9xSqXZI) is a real 
+  standout for me. It's got all the expansion/contraction elements that I love 
+  about his playing - in time, orchestration (single notes to those massive, 
+  keyboard-covering chords), and invention (snippets of melody, abstract and percussive 
+  passages, melodic wanderings - everything). 
 
 - [Poinciana](https://open.spotify.com/track/7yVkminlVC608IGsvXMYaA) (his
   biggest hit) gets the same treatment, and is also worth a listen.
