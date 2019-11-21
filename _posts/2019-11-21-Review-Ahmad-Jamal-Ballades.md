@@ -6,7 +6,7 @@ image: https://en.wikipedia.org/wiki/File:Jamal_ballades.jpg
 ---
 
 
-![ballades](https://en.wikipedia.org/wiki/File:Jamal_ballades.jpg)
+![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg)
 
 It's hard to believe, but in his long career, Ahmad Jamal has never
 recorded a solo album. It surprised me, and it's what immediately drew me to
