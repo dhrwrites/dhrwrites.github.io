@@ -34,7 +34,7 @@ Jamal isn't as familiar to the non-jazz-nerd public as some other pianists
 Miles Davis, who loved his "concept of space, his lightness of touch, his understatement".
 <small>[1]</small> To be honest, I think
 it's a bit lazy to quote Miles about Jamal, because Jamal is such a great artist
-in his own right, but here I am doing it too, because it helps people anchor his 
+in his own right, but here I am doing it too, because it helps people appreciate his 
 influence, especially if they aren't jazz nerds.
 
 *Ballades* is a terrific recording, with the songs ranging from originals to
