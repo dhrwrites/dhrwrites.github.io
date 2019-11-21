@@ -68,7 +68,7 @@ This 1958 recording is Jamal's big hit, and it's a great listen.
 1985](https://en.wikipedia.org/wiki/Live_at_the_Montreal_Jazz_Festival_1985).
 A quartet with electric bass, drums and percussion. This is a fun recording, 
 and a contrast to the 1958 (the electric bass is definitely a different sound), 
-but it still swings in the same way the 1958 recording did.
+but it still swings. 
 
 ### References
 1. Early, Gerald Lyn (2001). *Miles Davis and American culture.* Missouri History Museum.
