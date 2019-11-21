@@ -19,7 +19,7 @@ image: /images/posts/covers/Jamal_ballades.jpg
 
 Ahmad Jamal ... solo.
 
-It's hard to believe, but in his long career, Ahmad Jamal has never
+It's hard to believe, but in his long career (he's 89!), Ahmad Jamal has never
 recorded a solo album. It surprised me, and it's what immediately drew me to
 this new recording.
 
