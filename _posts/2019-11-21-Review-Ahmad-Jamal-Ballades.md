@@ -8,8 +8,8 @@ image: https://en.wikipedia.org/wiki/File:Jamal_ballades.jpg
 <style type="text/css">
 .image-right {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 10px;
+  margin-right: 10px;
   float: right;
 }
 </style>
