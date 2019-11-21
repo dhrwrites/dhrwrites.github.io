@@ -15,7 +15,8 @@ image: /images/posts/covers/Jamal_ballades.jpg
 </style>
 
 
-![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg){: .image-right}
+[![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg)
+{: .image-right}](https://www.amazon.com/Ballades-Ahmad-Jamal/dp/B07T3NQ9NY)
 
 [Ahmad Jamal](https://en.wikipedia.org/wiki/Ahmad_Jamal) ... solo.
 
@@ -37,7 +38,8 @@ it's a bit lazy to quote Miles about Jamal, because Jamal is such a great artist
 in his own right, but here I am doing it too, because it helps people appreciate his 
 influence, especially if they aren't jazz nerds.
 
-*Ballades* is a terrific recording, with the songs ranging from originals to
+[Ballades](https://www.amazon.com/Ballades-Ahmad-Jamal/dp/B07T3NQ9NY) is a 
+terrific recording, with the songs ranging from originals to
 reinterpretations of jazz standards. Play it as background music, or study it 
 note-for-note. You'll enjoy it either way.
 
