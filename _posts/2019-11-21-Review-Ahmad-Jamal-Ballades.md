@@ -17,7 +17,7 @@ image: /images/posts/covers/Jamal_ballades.jpg
 
 ![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg){: .image-right}
 
-Ahmad Jamal ... solo.
+[Ahmad Jamal](https://en.wikipedia.org/wiki/Ahmad_Jamal) ... solo.
 
 It's hard to believe, but in his long career (he's 89!), Ahmad Jamal has never
 recorded a solo album. It surprised me, and it's what immediately drew me to
