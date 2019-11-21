@@ -15,8 +15,7 @@ image: /images/posts/covers/Jamal_ballades.jpg
 </style>
 
 
-[![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg){: .image-right}]
-(https://www.amazon.com/Ballades-Ahmad-Jamal/dp/B07T3NQ9NY)
+![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg){: .image-right}
 
 [Ahmad Jamal](https://en.wikipedia.org/wiki/Ahmad_Jamal) ... solo.
 
