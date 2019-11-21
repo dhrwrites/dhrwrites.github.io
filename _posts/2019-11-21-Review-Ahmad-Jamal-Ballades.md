@@ -61,13 +61,11 @@ My other favorite Ahmad Jamal recordings are:
 
 1. [At The Pershing: But Not for
 Me](https://en.wikipedia.org/wiki/At_the_Pershing:_But_Not_for_Me) 
-[amazon](https://www.amazon.com/At-Pershing-But-Not-Me/dp/B000002O8V)
 (of course).
 This 1958 recording is Jamal's big hit, and it's a great listen. 
 
 2. [Live at the Montreal Jazz Festival
 1985](https://en.wikipedia.org/wiki/Live_at_the_Montreal_Jazz_Festival_1985).
-[amazon](https://www.amazon.com/Live-Montreal-Jazz-Festival-1985/dp/B000DZIGHG)
 A quartet with electric bass, drums and percussion. This is a fun recording, 
 and a contrast to the 1958 (the electric bass is definitely a different sound), 
 but it still swings in the same way the 1958 recording did.
