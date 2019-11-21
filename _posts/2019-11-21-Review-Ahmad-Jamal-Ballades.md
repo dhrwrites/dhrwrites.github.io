@@ -39,8 +39,8 @@ in his own right, but it helps people anchor his influence, especially if they
 aren't jazz nerds.
 
 *Ballades* is a terrific recording, with the songs ranging from originals to
-reinterpretations of jazz standards. It's a beautiful recording that anyone can enjoy. 
-Put it on as background music, or study it note-for-note. You'll enjoy it either way.
+reinterpretations of jazz standards. Play it as background music, or study it 
+note-for-note. You'll enjoy it either way.
 
 ### Highlights
 
