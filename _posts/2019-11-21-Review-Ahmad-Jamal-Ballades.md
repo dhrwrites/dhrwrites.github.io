@@ -22,7 +22,8 @@ image: /images/posts/covers/Jamal_ballades.jpg
 
 It's hard to believe, but in his long career (he's 89!), Ahmad Jamal has never
 recorded a solo album. It surprised me, and it's what immediately drew me to
-this new recording.
+[Ballades](https://www.amazon.com/Ballades-Ahmad-Jamal/dp/B07T3NQ9NY), his
+newest release.
 
 An Ahmad Jamal recording is ... fun. His playing just makes me happy. I'm not 
 exactly sure why, but something in his  expressiveness, touch and inventiveness 
@@ -38,8 +39,8 @@ it's a bit lazy to quote Miles about Jamal, because Jamal is such a great artist
 in his own right, but here I am doing it too, because it helps people appreciate his 
 influence, especially if they aren't jazz nerds.
 
-[Ballades](https://www.amazon.com/Ballades-Ahmad-Jamal/dp/B07T3NQ9NY) is a 
-terrific recording, with the songs ranging from originals to
+[Ballades](https://www.amazon.com/Ballades-Ahmad-Jamal/dp/B07T3NQ9NY) 
+is a terrific recording, with the songs ranging from originals to
 reinterpretations of jazz standards. Play it as background music, or study it 
 note-for-note. You'll enjoy it either way.
 
