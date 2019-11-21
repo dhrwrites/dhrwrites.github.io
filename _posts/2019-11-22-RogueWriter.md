@@ -7,6 +7,8 @@ image: /images/posts/rw_three_v02.png
 
 It's a writer's dream. Or maybe it's just an obsession.
 
+**TEST**.
+
 Oh, for the days when writers would bang out fiction on a
 well-oiled, clackity-clackity mechanical typewriter. I love a good typewriter, but I love the advantages 
 of a computer, too. The problem is that more and more we associate computers with 
