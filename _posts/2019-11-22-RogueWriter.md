@@ -9,13 +9,12 @@ It's a writer's dream. Or maybe it's just an obsession.
 
 Oh, for the days when writers would bang out fiction on a
 well-oiled, clackity-clackity mechanical typewriter. I love a good typewriter, but I love the advantages 
-of a computer, too. The problem is that more and more we associate computers with 
-distraction, social interaction, and media of all types. So for me, the computer 
-is less a machine for writing fiction than it is a machine for distraction. 
+of a computer, too. The problem is that more and more I associate computers with social interaction, news, and media of all types. So the computer 
+is more a machine for distraction that it is a machine for writing fiction. 
 
-Wouldn't it be great if we had a machine with the single purpose of a typewriter, and some of the benefits that a computing device has?
+Wouldn't it be great if we had a machine with the single purpose of a typewriter, and some of the benefits of a computer?
 
-There are a lot of different at such a device, including the
+It's a great idea, and there are a lot of designs for such a device, including the
 [freewrite](https://getfreewrite.com/products/freewrite-smart-typewriter), the
 [alphasmart](https://en.wikipedia.org/wiki/AlphaSmart), and [
 raspberry pi](https://en.wikipedia.org/wiki/Raspberry_Pi)-based devices like 
@@ -45,11 +44,10 @@ The **RougeWriter** is:
 - inexpensive
 - a bit wonky, like a clacky old typewriter. 
 
-Importantly, you won't be embarrassed to been with it out in the wild.
-In fact, the visual design of this thing is important, and it drives some of 
-the purchasing decisions. 
+Importantly, you won't be embarrassed to be seen with it out in the wild.
+The visual design of this thing is important, and it drives the choice of some of the components. 
 
-My version of this device boots to a text display (a bash shell, to be specific), ready for writing.
+My personal version of this device boots to a text display (a bash shell, to be specific), ready for writing.
 The workflow I use is discussed in a later post, and is one possible workflow
 among many.
 
@@ -58,21 +56,22 @@ So let's go ...
 ## Buy The Parts
 
 First you have to buy the parts. Let's lay this thing out and take a look at the guts. 
-It's basically **display (plugged into a) computer (plugged into a) battery**,
-with a **bluetooth keyboard**. Once you plug these things
-together, you have a pretty powerful computer for about **$150**:
+It's basically **display** plugged into a **computer** plugged into a **battery**,
+controlled with a **bluetooth keyboard**. Once you plug these things
+together, you have a surprisingly powerful computer for about **$150**:
 
 ![guts]({{ site.baseurl }}/images/posts/rw_diagram_v02.png)
 
 1. [**Computer. ($14)**](https://www.adafruit.com/product/3708) This design uses
 the **Raspberry Pi W**, a small, low-power computer that has both wifi and
-bluetooth on board. We'll use a **Pi W** with pre-soldered header pins, so you
+bluetooth on board. This board has pre-soldered header pins, so you
 can plug in the specified display. To get the **Pi** up and running, you'll need
 a memory card with the [OS pre-installed](https://www.adafruit.com/product/3259), 
 or you can [install it yourself](https://www.raspberrypi.org/downloads/noobs/). 
 2. [**Display. ($49)**](https://www.amazon.com/gp/product/B0716RVNTS)
-The display is important. I've seen a lot of designs using small displays, and they typically have
-cables and plugs sticking out of them. To me that would be distracting. I chose
+The display is important. A lot of **Pi**-based devices have
+cables and plugs sticking out of them. I've gone that route, and to me 
+that's distracting. After a lot of searching, I chose
 a display that lays flat and has a ribbon connection, which is visually much cleaner.
 3. **Keyboard. ($55)** Buyer's choice here. There are lots of options for
 bluetooth keyboards, and you can make your own choices on portability, feel,
@@ -85,10 +84,10 @@ I haven't found a cheap bluetooth keyboard that works well, but YMMV.
 4. **Battery. ($18)** Your choice, based on price, battery life, form factor,
 etc. A lot of different batteries will work, and I always have an eye out for
 a smaller battery pack on sale. You have to make a tradeoff between size, price,
-and battery life. There's a post on that.
+and battery life.
     - [Here's the one that I'm using now](https://www.amazon.com/dp/B07RX73MF2).
       Preliminary [testing](https://www.amazon.com/gp/product/B013FANC9W) 
-      shows this should last for **9 hours**. More detailed testing on the way.
+      shows this should last for **9 hours**. More detailed testing on the way. I'll note that I used a battery with much higher capacity in a previous design, but it was bulkier, and I just didn't need 20 hours of battery life. I like the smaller one.
 5. [**USB on/off
 switch**](https://www.amazon.com/gp/product/B07CTHKXDW).
     Keeps the battery from draining after shutting down the **Pi**.
@@ -111,7 +110,7 @@ Connects the battery to the on/off switch cable.
   the perfect case.
 - Double stick tape and velcro. This holds things together well enough to keep
   everything in place, but it can be repositioned if you need to change things. I ended up using 
-  double stick tape for the display, the `pi`, the switch, and cables. Sometimes
+  double stick tape for the display, the **Pi**, the switch, and cables. Sometimes
   you need to use two layers of tape to position the component properly (like the
   screen). I used
   velcro to keep the battery in place, because it's the one thing you need to
