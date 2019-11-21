@@ -53,7 +53,7 @@ note-for-note. You'll enjoy it either way.
   passages, melodic wanderings - everything). 
 
 - [Poinciana](https://open.spotify.com/track/7yVkminlVC608IGsvXMYaA) (his
-  biggest hit) gets the same treatment, and is also worth a listen.
+  [biggest hit](https://web.archive.org/web/20081123052922/http://www.jazz.com/jazz-blog/2008/1/16/ahmad-jamal-s-poinciana-turns-50-today)) gets the same treatment, and is also worth a listen.
 
 
 ## Other Recordings
