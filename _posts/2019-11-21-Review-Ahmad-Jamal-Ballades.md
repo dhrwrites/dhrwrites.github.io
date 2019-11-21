@@ -6,7 +6,7 @@ image: https://en.wikipedia.org/wiki/File:Jamal_ballades.jpg
 ---
 
 <style type="text/css">
-.image-left {
+.image-right {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -17,8 +17,7 @@ image: https://en.wikipedia.org/wiki/File:Jamal_ballades.jpg
 Ahmad Jamal ... solo.
 
 
-![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg){:
-.image-left}
+![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg){: .image-right}
 
 It's hard to believe, but in his long career, Ahmad Jamal has never
 recorded a solo album. It surprised me, and it's what immediately drew me to
@@ -39,15 +38,20 @@ it's a bit lazy to quote Miles about Jamal, because Jamal is such a great artist
 in his own right, but it helps people anchor his influence, especially if they
 aren't jazz nerds.
 
+## Highlights
+
 *Ballades* is a terrific recording, with the songs ranging from originals to
-reinterpretations of jazz standards. [What's New](https://open.spotify.com/track/65nchdr9ThGXlUP9xSqXZI) 
+reinterpretations of jazz standards. 
+
+- [What's New](https://open.spotify.com/track/65nchdr9ThGXlUP9xSqXZI) 
 is a real standout for me. 
 It's got all the expansion/contraction
 elements that I love about his playing - in time, orchestration (single notes to
 those massive, keyboard-covering chords), and invention (snippets of melody,
-abstract and percussive passages, melodic wanderings - everything). His hit
-[Poinciana](https://open.spotify.com/track/7yVkminlVC608IGsvXMYaA) gets the same
-treatment, and is also worth a listen.
+abstract and percussive passages, melodic wanderings - everything).
+
+- [Poinciana](https://open.spotify.com/track/7yVkminlVC608IGsvXMYaA) (his
+  biggest hit) gets the same treatment, and is also worth a listen.
 
 *Ballades* is a beautiful recording that anyone can enjoy. It's easy to listen
 to, but is subtly challenging, as well. Put it on as background music, or
