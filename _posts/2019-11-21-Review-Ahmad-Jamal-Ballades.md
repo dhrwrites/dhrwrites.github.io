@@ -42,7 +42,7 @@ aren't jazz nerds.
 reinterpretations of jazz standards. It's a beautiful recording that anyone can enjoy. 
 Put it on as background music, or study it note-for-note. You'll enjoy it either way.
 
-## Highlights
+### Highlights
 
 
 - [What's New](https://open.spotify.com/track/65nchdr9ThGXlUP9xSqXZI) is a real 
