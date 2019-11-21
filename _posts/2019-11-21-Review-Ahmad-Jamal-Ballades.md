@@ -5,6 +5,8 @@ categories: jazz
 image: https://en.wikipedia.org/wiki/File:Jamal_ballades.jpg
 ---
 
+Ahmad Jamal ... solo.
+
 
 ![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg)
 
