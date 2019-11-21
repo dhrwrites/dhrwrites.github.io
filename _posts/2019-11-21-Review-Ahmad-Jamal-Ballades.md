@@ -5,10 +5,20 @@ categories: jazz
 image: https://en.wikipedia.org/wiki/File:Jamal_ballades.jpg
 ---
 
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
+
 Ahmad Jamal ... solo.
 
 
-![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg)
+![ballades]({{ site.baseurl }}/images/posts/covers/Jamal_ballades.jpg){:
+.image-left}
 
 It's hard to believe, but in his long career, Ahmad Jamal has never
 recorded a solo album. It surprised me, and it's what immediately drew me to
