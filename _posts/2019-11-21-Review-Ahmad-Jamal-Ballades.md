@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review\: of Ahmad Jamal's 'Ballades' 
+title: Review of Ahmad Jamal's 'Ballades' 
 categories: jazz 
 image: https://en.wikipedia.org/wiki/File:Jamal_ballades.jpg
 ---
