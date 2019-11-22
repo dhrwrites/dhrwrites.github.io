@@ -14,7 +14,7 @@ is more a machine for distraction that it is a machine for writing fiction.
 
 Wouldn't it be great if we had a machine with the single purpose of a typewriter, and some of the benefits of a computer?
 
-It's a great idea, and there are a lot of designs for such a device, including the
+There are a lot of designs for such a device, including the
 [freewrite](https://getfreewrite.com/products/freewrite-smart-typewriter), the
 [alphasmart](https://en.wikipedia.org/wiki/AlphaSmart), and [
 raspberry pi](https://en.wikipedia.org/wiki/Raspberry_Pi)-based devices like 
@@ -31,7 +31,8 @@ Like I said, this can be an obsession.
 
 So here's my addition to this bestiary of devices ...
 
-**RogueWriter** is a portable device with a keyboard and display that makes it easy to write, without all the distractions 
+**RogueWriter** is a portable device with a keyboard and display that makes it 
+easy to write, without all the distractions 
 a full laptop can offer. It is also, importantly, *easy to assemble*, requiring
 no soldering, case cutting, 3D printing or other finicky stuff. The parts can be
 plugged together, taped in place, and you're done.
@@ -48,8 +49,7 @@ Importantly, you won't be embarrassed to be seen with it out in the wild.
 The visual design of this thing is important, and it drives the choice of some of the components. 
 
 My personal version of this device boots to a text display (a bash shell, to be specific), ready for writing.
-The workflow I use is discussed in a later post, and is one possible workflow
-among many.
+I'll show the workflow I use in a later post. It's one possible workflow among many.
 
 So let's go ... 
 
