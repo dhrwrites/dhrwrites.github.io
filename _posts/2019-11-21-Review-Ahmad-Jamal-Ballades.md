@@ -38,7 +38,7 @@ it's a bit lazy to quote Miles about Jamal, because Jamal is such a great artist
 in his own right, but here I am doing it too, because it helps people appreciate his 
 influence, especially if they aren't jazz nerds.
 
-On this recording, a few tracks are real standouts to me:
+### Standout Tracks
 
 - [What's New](https://open.spotify.com/track/65nchdr9ThGXlUP9xSqXZI) This
   track's got all the expansion/contraction elements that I love 
@@ -55,9 +55,7 @@ reinterpretations of jazz standards. Play it as background music, or study it
 note-for-note. You'll enjoy it either way.
 
 
-### Other Recordings
-
-My other favorite Ahmad Jamal recordings are:
+### Other Recordings to Check Out: 
 
 1. [At The Pershing: But Not for
 Me](https://en.wikipedia.org/wiki/At_the_Pershing:_But_Not_for_Me) 
