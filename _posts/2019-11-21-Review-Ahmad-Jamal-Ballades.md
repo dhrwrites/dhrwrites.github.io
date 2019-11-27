@@ -24,7 +24,7 @@ recorded a solo album. It surprised me, and it's what immediately drew me to
 [Ballades](https://www.amazon.com/Ballades-Ahmad-Jamal/dp/B07T3NQ9NY), his
 newest release.
 
-An Ahmad Jamal recording is ... fun. His playing just makes me happy. I'm not 
+An Ahmad Jamal recording is ... fun. I'm not 
 exactly sure why, but something in his  expressiveness, touch and inventiveness 
 is simply joyful. Jamal's musical 'outness' doesn't come from speedy runs or twisty 
 time changes - it's more from the overall shape and contrast of his interpretation. 
@@ -62,7 +62,9 @@ My other favorite Ahmad Jamal recordings are:
 1. [At The Pershing: But Not for
 Me](https://en.wikipedia.org/wiki/At_the_Pershing:_But_Not_for_Me) 
 (of course).
-This 1958 recording is Jamal's big hit, and it's a great listen. 
+This 1958 recording is Jamal's big hit, and it's a great listen. Strangely
+enough, the two tracks I noted above also appear on this recording. Jamal
+has been playing those tunes for a long time ...
 
 2. [Live at the Montreal Jazz Festival
 1985](https://en.wikipedia.org/wiki/Live_at_the_Montreal_Jazz_Festival_1985).
