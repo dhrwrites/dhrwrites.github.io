@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenWriter Workflow
+title: OpenManuscript Workflow
 categories: [technology, writing]
 image: /images/posts/rw_three_v02.png
 ---
